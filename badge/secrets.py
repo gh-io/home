@@ -6,7 +6,7 @@ WIFI_PASSWORD = "h4ck4w4y"
 
 # ----------------------- GitHub Settings ----------------------
 # Update with your GitHub username
-GITHUB_USERNAME = ""
+GITHUB_USERNAME = "Web4application"
 
 # Optional: Add your GitHub personal access token for higher API rate limits
 # Leave empty for unauthenticated requests (60 requests/hour)
@@ -19,7 +19,7 @@ GITHUB_TOKEN = ""
 # You can specify location in several ways:
 #
 # By city name (simple):
-# WEATHER_LOCATION = "Tokyo"
+# WEATHER_LOCATION = "lagos"
 #
 # By city and country (tuple):
 # WEATHER_LOCATION = ("London", "GB")
